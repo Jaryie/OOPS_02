@@ -39,6 +39,6 @@ This is ~~strikeout~~ <br>
 
  ## Link (to another part of page)
  [Format Tips] (#Formatting)
- [Google](http://www.google.com/)
- [Cart](https://www.cartrigeextra.com.au/)
+ [Google](http://www.google.com/)<br>
+ [Cartridge Extra](https://www.cartrigeextra.com.au/)
 

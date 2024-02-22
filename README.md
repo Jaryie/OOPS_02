@@ -38,7 +38,7 @@ This is ~~strikeout~~ <br>
  <li>Six</li>
 
  ## Link (to another part of page)
- [Format Tips] (#Formatting)
+ [Format Tips] (#Formatting)<br>
  [Google](http://www.google.com/)<br>
  [Cartridge Extra](https://www.cartrigeextra.com.au/)
 

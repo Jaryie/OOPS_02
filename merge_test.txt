@@ -1,8 +1,10 @@
-this is test for merge conflict does
-may this
-need work?
-additional let's
-lines 
-for find
-proper out
+this is test for merge conflict hhhh
+mayhhh
+need
+additional
+lines
+for hhhhh
+proper hhh
 demonstration
+
+The part has been added to show what happens if more than one person is working on the same file at the same time.

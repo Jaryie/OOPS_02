@@ -1,8 +1,8 @@
-this is test for merge conflict does
-may this
+this is test for merge conflict does hhg
+may thisg
 need work?
 additional let's
 lines 
-for find
+for findghg
 proper out
-demonstration
+demonstrationg

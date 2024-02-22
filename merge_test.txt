@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 this is test for merge conflict hhhh
 mayhhh
 need
@@ -8,3 +9,13 @@ proper hhh
 demonstration
 
 The part has been added to show what happens if more than one person is working on the same file at the same time.
+=======
+this is test for merge conflict does hhg
+may thisg
+need work?
+additional let's
+lines 
+for findghg
+proper out
+demonstrationg
+>>>>>>> 474582b61bb062145a7daaf5207574beb16e2329

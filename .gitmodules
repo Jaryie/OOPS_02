@@ -1,0 +1,3 @@
+[submodule "PullTest/pullrequest2024.a"]
+	path = PullTest/pullrequest2024.a
+	url = https://github.com/CapelaGames/pullrequest2024.1

@@ -1,0 +1,45 @@
+
+Confirming your GitHub project:
+1.      Your teacher will provide you a git URL.
+a.      Make a pull request, making any change you want. (made changes to README.md)
+
+2.      Create a file called changes.md (nano comand used)
+a.      Inside of changes.md, list what was changed.
+b.      Inside of changes.md, explain how you can view changes made in a commit.
+
+
+List of commands used (from command line 106 - representing changes)
+  106  git clone https://github.com/CapelaGames/pullrequest2024.1
+  107  ls -l
+  108  cd pullrequest2024.1
+  109  ls -l
+  110  nano README.md
+  111  ls -al
+  112  cd /OOPS_02
+  113  cd..
+  114  cd ~
+  115  cd OOPS
+  116  cd Git2/OOPS
+  117  ls
+  118  cd Git2
+  119  ls
+  120  cd OOPS_02
+  121  mkdir PullTest
+  122  cd PullTest
+  123  cd pullrequest2024.1
+  124  git clone https://github.com/CapelaGames/pullrequest2024.1
+  125  cd pullrequest2024.1
+  126  nano README.md
+  127  nano 369017829_changes.md
+  128  ls -l
+  129  history
+
+Jaryie Wong's (369017829) List of Changes
+- added a line to README.md in pullrequest2024.1
+- created file in pullrequest2024.1 called changes.md
+- add text in changes.md
+- created folder pullrequest2024.a
+- created Folder called Changes in OOPS_02
+
+push to pullrequest2024.1 denied
+- moved file to folde PullTest

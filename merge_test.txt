@@ -10,6 +10,10 @@ additional let's
 lines 
 for findghg
 proper out
+<<<<<<< HEAD
 demonstrating
 a merge conflict
+=======
+demonstrating a forced merge conflict
+>>>>>>> 83cfd58ddc1683d33759219d72bbc0fb0a9ef791
 

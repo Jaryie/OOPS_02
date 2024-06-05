@@ -1,6 +1,6 @@
 Part 3: Git Manual
 
-[Read Me](https://github.com/Jaryie/OOPS_02/blob/development/README.md))
+[Read Me](https://github.com/Jaryie/OOPS_02/blob/development/README.md)
 
 Instructions
 Step 1:Download from https://git-scm.com/downloads

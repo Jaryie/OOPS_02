@@ -1,9 +1,6 @@
-# Heading 1
-## Heading 2
-### Heading 3
-#### Heading 4
-##### Heading 5
-###### Heading 6
+[Part 1](./Part_01/test.md)
+[Part 2](./Part_02/Part_02.md)
+[Part 3](./Part_03/Part_03_Markdown.md)
 
 git add . <br>
 git commit -m "m message" <br>
@@ -41,4 +38,6 @@ This is ~~strikeout~~ <br>
  [Format Tips] (#Formatting)<br>
  [Google](http://www.google.com/)<br>
  [Cartridge Extra](https://www.cartrigeextra.com.au/)
+
+
 

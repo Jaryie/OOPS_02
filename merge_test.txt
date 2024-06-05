@@ -4,11 +4,16 @@
 The part has been added to show what happens if more than one person is working on the same file at the same time.
 
 this is test for merge conflict does hhg
-may thisg
+may this
 need work?
 additional let's
 lines 
 for findghg
 proper out
-demonstrationg
+<<<<<<< HEAD
+demonstrating
+a merge conflict
+=======
+demonstrating a forced merge conflict
+>>>>>>> 83cfd58ddc1683d33759219d72bbc0fb0a9ef791
 

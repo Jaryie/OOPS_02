@@ -10,6 +10,8 @@ git push <br>
 
 
  ## Link (to another part of page)
+[Markdown Test] (WK_3_Markdown)
+ 
  [Format Tips] (#Formatting)<br>
  [Google](http://www.google.com/)<br>
  [Cartridge Extra](https://www.cartrigeextra.com.au/)
